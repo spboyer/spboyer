@@ -5,7 +5,6 @@
 ## Am I doing this right?
 
 - 👈 That's me. I'm Shayne Boyer.
-- ☁️ Host the [Cloud Native Show](https://channel9.msdn.com/Shows/The-Cloud-Native-Show?WT.mc_id=dotnet-0000-shboyer)
 - 🚀 Lead the Azure Developer Experience & Tools Team at Microsoft, responsible for:
   - [Azure Developer CLI (azd)](https://aka.ms/azd)
   - [Azure Extensions for VS Code](https://github.com/Microsoft/vscode-azureresourcegroups)
