@@ -18,6 +18,12 @@ My personal mission: *Make the cloud feel local.*
 
 ## What I've worked on
 
+### Before Microsoft
+
+**Disney Cruise Line** — Architect for the [Disney Cruise Line](https://disneycruise.disney.go.com/) mobile experience app, [disneycruiseline.com](https://disneycruise.disney.go.com/), and [MagicBand](https://www.disneyworld.eu/guest-services/magicband/) integrations. Building software that millions of families rely on during their vacations taught me what "user experience matters" really means — when the tech disappears and the magic just works.
+
+### At Microsoft
+
 **[Azure Developer CLI (azd)](https://github.com/Azure/azure-dev)** — The project I'm most proud of. A CLI that takes you from `azd init` to a deployed app in minutes. We built it because provisioning cloud infrastructure shouldn't require a PhD in YAML.
 
 **[Azure Extensions for VS Code](https://github.com/microsoft/vscode-azureresourcegroups)** — Making Azure a first-class citizen in the editor. Resource management, deployment, and monitoring without leaving your flow.
