@@ -1,43 +1,59 @@
-<!--
-**spboyer/spboyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hello World!
 
-## Am I doing this right?
+I build developer tools and experiences at Microsoft. Currently I'm a Principal PM Lead in CoreAI, leading the Azure Developer Experience & Tools team — the crew behind [Azure Developer CLI (azd)](https://aka.ms/azd), [Azure Extensions for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups), container tooling, and the [@azure Copilot extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot). I started as a solutions architect building enterprise apps, and somewhere along the way realized the tools matter as much as the code.
 
-- 👈 That's me. I'm Shayne Boyer.
-- 🚀 Lead the Azure Developer Experience & Tools Team at Microsoft, responsible for:
-  - [Azure Developer CLI (azd)](https://aka.ms/azd)
-  - [Azure Extensions for VS Code](https://github.com/Microsoft/vscode-azureresourcegroups)
-  - Container Tools for VS Code and Visual Studio
-  - VS Code for the Web - Azure
-  - [@azure Copilot agent](https://learn.microsoft.com/en-us/azure/developer/github-copilot-azure/learn-examples) ([Install Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot))
+My personal mission: *Make the cloud feel local.*
 
-## 🎯 Technical Focus Areas
+---
 
-### Cloud Native & DevOps
-- Container orchestration and development workflows
-- Cloud-native application architecture and deployment patterns
-- DevOps automation and CI/CD pipelines
-- Kubernetes development experiences and tooling
-- Microservices architecture and implementation
+## What I believe
 
-### Developer Tooling & Experience
-- IDE extension development (VS Code, Visual Studio)
-- Command-line tool design and implementation
-- Developer workflow optimization
-- Cloud development environments
-- AI-assisted development tools and experiences
+- **Developer experience is product** — if the workflow is painful, the platform doesn't matter
+- **Open source is how trust gets built** — ship in the open, take feedback seriously
+- **Ship to learn** — a deployed prototype teaches more than a perfect spec
+- **Meet developers where they are** — terminal, editor, browser, whatever works
+- **Community over credentials** — the best ideas come from people building real things
 
-### Azure Platform Expertise
-- Azure application deployment and hosting
-- Containerization strategies on Azure
-- Cloud-native development patterns
-- Azure Developer CLI (azd) workflows
-- Azure AI and Copilot integration
+---
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/spboyer.svg?style=social&label=Follow%20spboyer)](https://twitter.com/spboyer)
+## What I've worked on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&label=LinkedIn)](https://linkedin.com/in/shayneboyer)
+**[Azure Developer CLI (azd)](https://github.com/Azure/azure-dev)** — The project I'm most proud of. A CLI that takes you from `azd init` to a deployed app in minutes. We built it because provisioning cloud infrastructure shouldn't require a PhD in YAML.
 
+**[Azure Extensions for VS Code](https://github.com/microsoft/vscode-azureresourcegroups)** — Making Azure a first-class citizen in the editor. Resource management, deployment, and monitoring without leaving your flow.
 
+**[@azure Copilot Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)** — Bringing Azure expertise into GitHub Copilot. Ask it how to deploy, and it'll actually do it.
 
+**Container Tools** — VS Code and Visual Studio extensions that make containers approachable — Dockerfiles, Compose, debugging, all built into the editor experience.
+
+**AI Agent Tooling** — Currently deep in the world of AI agents, building developer experiences for [Azure AI Foundry](https://azure.microsoft.com/products/ai-foundry) and the agentic AI stack.
+
+---
+
+## Community
+
+I've been lucky to serve in a few community roles along the way:
+
+- 🟣 **.NET Foundation** member
+- 🟡 **OpenJS Foundation** — Platinum Director on the board
+- 🎤 Conference speaker — Azure Dev Summit, .NET events, open source meetups
+- 📚 **Pluralsight** author — courses on Angular, ASP.NET Core, API development
+- Former **ASP.NET MVP**, INETA speaker, and Telerik Developer Expert
+
+---
+
+## A bit about me
+
+The handle "tattoocoder" isn't ironic — I've got the ink to prove it. I'm based in the US and I've spent 15+ years turning "that's too complicated" into "oh, that's it?"
+
+I care about lowering barriers. Whether it's a first-time developer deploying to the cloud or a seasoned engineer who just wants fewer steps between idea and production — that's the work.
+
+---
+
+## Say hi 👋
+
+- 💼 [LinkedIn](https://linkedin.com/in/shayneboyer)
+- 🐦 [X / Twitter](https://twitter.com/spboyer)
+- 📝 [Blog — tattoocoder.com](https://tattoocoder.com)
+
+Or open an issue — I read everything.
