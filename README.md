@@ -1,8 +1,6 @@
 # Hello World!
 
-I build developer tools and experiences at Microsoft. Currently I'm a Principal PM Lead in CoreAI, leading the Azure Developer Experience & Tools team — the crew behind [Azure Developer CLI (azd)](https://aka.ms/azd), [Azure Extensions for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups), container tooling, and the [@azure Copilot extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot). I started as a solutions architect building enterprise apps, and somewhere along the way realized the tools matter as much as the code.
-
-My personal mission: *Make the cloud feel local.*
+I build developer tools and experiences at GitHub / Microsoft. 
 
 ---
 
@@ -24,15 +22,15 @@ My personal mission: *Make the cloud feel local.*
 
 ### At Microsoft
 
-**[Azure Developer CLI (azd)](https://github.com/Azure/azure-dev)** — The project I'm most proud of. A CLI that takes you from `azd init` to a deployed app in minutes. We built it because provisioning cloud infrastructure shouldn't require a PhD in YAML.
+**[Azure Skills](https://github.com/microsoft/azure-skills)** - The Azure Skills Plugin packages Azure expertise and MCP-backed execution together so compatible coding agents can do real Azure work instead of giving generic cloud advice.
+
+**[Azure Developer CLI (azd)](https://github.com/Azure/azure-dev)** — A CLI that takes you from `azd init` to a deployed app in minutes. We built it because provisioning cloud infrastructure shouldn't require a PhD in YAML.
 
 **[Azure Extensions for VS Code](https://github.com/microsoft/vscode-azureresourcegroups)** — Making Azure a first-class citizen in the editor. Resource management, deployment, and monitoring without leaving your flow.
 
 **[@azure Copilot Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)** — Bringing Azure expertise into GitHub Copilot. Ask it how to deploy, and it'll actually do it.
 
 **Container Tools** — VS Code and Visual Studio extensions that make containers approachable — Dockerfiles, Compose, debugging, all built into the editor experience.
-
-**AI Agent Tooling** — Currently deep in the world of AI agents, building developer experiences for [Azure AI Foundry](https://azure.microsoft.com/products/ai-foundry) and the agentic AI stack.
 
 ---
 
@@ -49,8 +47,6 @@ I've been lucky to serve in a few community roles along the way:
 ---
 
 ## A bit about me
-
-The handle "tattoocoder" isn't ironic — I've got the ink to prove it. I'm based in the US and I've spent 15+ years turning "that's too complicated" into "oh, that's it?"
 
 I care about lowering barriers. Whether it's a first-time developer deploying to the cloud or a seasoned engineer who just wants fewer steps between idea and production — that's the work.
 
